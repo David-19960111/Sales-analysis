@@ -1,0 +1,1001 @@
+Fecha,Producto,Categoría,Precio,Cantidad,Ciudad,Método de pago
+2024-06-02,Auriculares,Ropa,121.34,5,Puebla,Transferencia
+2024-03-26,Camiseta,Accesorios,209.76,4,Ciudad de México,Efectivo
+2024-03-11,Laptop,Ropa,61.25,1,Tijuana,Transferencia
+2024-01-29,Zapatos,Ropa,158.91,5,Monterrey,Efectivo
+2024-05-18,Camiseta,Electrónica,198.0,4,Tijuana,Efectivo
+2024-02-05,Smartphone,Electrónica,213.68,1,Monterrey,Efectivo
+2024-05-20,Smartphone,Accesorios,39.25,2,Monterrey,Tarjeta de crédito
+2024-12-31,Auriculares,Ropa,259.6,4,Tijuana,Efectivo
+2024-06-05,Zapatos,Electrónica,319.94,4,Puebla,Efectivo
+2024-07-15,Auriculares,Electrónica,80.29,5,Monterrey,Tarjeta de crédito
+2024-05-29,Zapatos,Electrónica,99.34,1,Monterrey,Efectivo
+2024-12-12,Laptop,Accesorios,137.37,4,Ciudad de México,Transferencia
+2024-01-25,Smartphone,Electrónica,241.42,1,Tijuana,Efectivo
+2024-10-20,Auriculares,Electrónica,264.75,4,Ciudad de México,Transferencia
+2024-02-24,Smartphone,Ropa,310.67,2,Monterrey,Transferencia
+2024-02-19,Auriculares,Ropa,354.95,5,Monterrey,Transferencia
+2024-11-26,Zapatos,Electrónica,327.55,2,Ciudad de México,Tarjeta de crédito
+2024-06-13,Camiseta,Accesorios,403.63,5,Guadalajara,Tarjeta de crédito
+2024-10-23,Auriculares,Accesorios,207.03,2,Tijuana,Efectivo
+2024-05-03,Camiseta,Ropa,43.63,2,Ciudad de México,Transferencia
+2024-08-30,Zapatos,Ropa,404.8,5,Puebla,Transferencia
+2024-04-30,Smartphone,Electrónica,18.57,5,Monterrey,Tarjeta de crédito
+2024-07-11,Smartphone,Ropa,436.88,2,Tijuana,Efectivo
+2024-11-04,Auriculares,Electrónica,351.93,5,Tijuana,Efectivo
+2024-09-06,Camiseta,Ropa,280.76,4,Ciudad de México,Transferencia
+2024-09-29,Zapatos,Accesorios,92.79,5,Tijuana,Tarjeta de crédito
+2024-04-05,Zapatos,Accesorios,205.15,2,Tijuana,Tarjeta de crédito
+2024-09-26,Smartphone,Accesorios,252.83,3,Monterrey,Tarjeta de crédito
+2024-05-23,Auriculares,Ropa,439.15,1,Puebla,Efectivo
+2024-04-09,Smartphone,Accesorios,218.96,3,Ciudad de México,Efectivo
+2024-04-13,Zapatos,Accesorios,172.59,5,Monterrey,Transferencia
+2024-10-15,Camiseta,Ropa,123.87,4,Tijuana,Transferencia
+2024-10-09,Zapatos,Electrónica,102.19,1,Monterrey,Transferencia
+2024-02-25,Camiseta,Accesorios,159.26,3,Monterrey,Tarjeta de crédito
+2024-03-21,Laptop,Accesorios,194.52,5,Puebla,Efectivo
+2024-09-21,Zapatos,Electrónica,284.4,4,Puebla,Tarjeta de crédito
+2024-10-31,Zapatos,Ropa,318.68,5,Puebla,Tarjeta de crédito
+2024-08-15,Camiseta,Electrónica,38.42,4,Guadalajara,Tarjeta de crédito
+2024-09-10,Smartphone,Accesorios,263.29,3,Ciudad de México,Tarjeta de crédito
+2024-04-20,Camiseta,Accesorios,415.27,4,Guadalajara,Transferencia
+2024-06-24,Laptop,Ropa,226.59,2,Puebla,Tarjeta de crédito
+2024-07-17,Laptop,Accesorios,409.7,3,Puebla,Tarjeta de crédito
+2024-05-29,Smartphone,Electrónica,239.14,4,Ciudad de México,Transferencia
+2024-08-18,Laptop,Electrónica,12.53,2,Guadalajara,Efectivo
+2024-12-01,Laptop,Accesorios,241.62,3,Ciudad de México,Efectivo
+2024-01-31,Zapatos,Electrónica,23.92,1,Tijuana,Transferencia
+2024-07-06,Smartphone,Accesorios,360.03,4,Ciudad de México,Tarjeta de crédito
+2024-05-25,Smartphone,Ropa,260.22,5,Ciudad de México,Transferencia
+2024-01-14,Laptop,Electrónica,178.87,5,Ciudad de México,Efectivo
+2024-10-18,Smartphone,Electrónica,250.98,1,Monterrey,Transferencia
+2024-01-24,Smartphone,Ropa,259.01,2,Tijuana,Tarjeta de crédito
+2024-02-17,Auriculares,Ropa,290.64,2,Monterrey,Efectivo
+2024-01-12,Camiseta,Electrónica,372.37,3,Monterrey,Transferencia
+2024-08-25,Laptop,Ropa,186.81,2,Guadalajara,Transferencia
+2024-05-31,Laptop,Accesorios,10.55,1,Tijuana,Transferencia
+2024-10-04,Auriculares,Accesorios,286.42,3,Guadalajara,Tarjeta de crédito
+2024-04-29,Zapatos,Ropa,476.72,2,Monterrey,Efectivo
+2024-12-18,Camiseta,Accesorios,123.85,3,Ciudad de México,Efectivo
+2024-03-17,Auriculares,Ropa,168.97,3,Monterrey,Tarjeta de crédito
+2024-05-28,Auriculares,Electrónica,246.66,1,Monterrey,Tarjeta de crédito
+2024-03-16,Smartphone,Electrónica,467.28,1,Tijuana,Transferencia
+2024-01-30,Camiseta,Electrónica,247.81,4,Puebla,Transferencia
+2024-05-07,Zapatos,Accesorios,110.36,3,Tijuana,Transferencia
+2024-01-09,Auriculares,Accesorios,358.05,3,Ciudad de México,Efectivo
+2024-05-01,Camiseta,Accesorios,39.94,1,Guadalajara,Tarjeta de crédito
+2024-11-05,Camiseta,Accesorios,365.92,5,Ciudad de México,Transferencia
+2024-10-10,Camiseta,Ropa,74.43,3,Monterrey,Transferencia
+2024-07-05,Camiseta,Electrónica,120.68,3,Puebla,Tarjeta de crédito
+2024-11-14,Zapatos,Ropa,373.42,2,Monterrey,Tarjeta de crédito
+2024-07-17,Zapatos,Accesorios,180.14,5,Puebla,Tarjeta de crédito
+2024-09-22,Smartphone,Electrónica,325.53,3,Guadalajara,Transferencia
+2024-05-27,Camiseta,Ropa,341.73,5,Tijuana,Transferencia
+2024-10-16,Laptop,Ropa,283.7,4,Monterrey,Efectivo
+2024-02-27,Auriculares,Electrónica,30.38,3,Tijuana,Transferencia
+2024-02-14,Smartphone,Electrónica,72.68,2,Guadalajara,Transferencia
+2024-09-03,Smartphone,Electrónica,441.72,2,Tijuana,Transferencia
+2024-11-20,Zapatos,Accesorios,352.09,1,Tijuana,Efectivo
+2024-10-24,Smartphone,Ropa,396.07,2,Puebla,Tarjeta de crédito
+2024-07-03,Camiseta,Electrónica,358.08,1,Tijuana,Transferencia
+2024-08-09,Camiseta,Electrónica,23.42,1,Guadalajara,Transferencia
+2024-02-24,Auriculares,Accesorios,119.45,1,Guadalajara,Efectivo
+2024-01-29,Laptop,Electrónica,402.42,5,Ciudad de México,Efectivo
+2024-08-16,Smartphone,Accesorios,22.33,3,Monterrey,Tarjeta de crédito
+2024-02-12,Camiseta,Accesorios,431.42,5,Tijuana,Transferencia
+2024-12-10,Camiseta,Electrónica,496.12,5,Tijuana,Tarjeta de crédito
+2024-01-18,Auriculares,Electrónica,141.63,5,Puebla,Efectivo
+2024-02-24,Smartphone,Electrónica,381.64,1,Guadalajara,Efectivo
+2024-07-16,Camiseta,Accesorios,209.89,1,Monterrey,Efectivo
+2024-12-09,Smartphone,Electrónica,371.28,4,Guadalajara,Tarjeta de crédito
+2024-03-24,Zapatos,Electrónica,80.26,4,Puebla,Transferencia
+2024-11-03,Zapatos,Ropa,194.08,5,Monterrey,Transferencia
+2024-01-18,Smartphone,Electrónica,275.76,2,Puebla,Efectivo
+2025-01-06,Camiseta,Electrónica,353.84,3,Guadalajara,Transferencia
+2024-04-14,Auriculares,Electrónica,285.15,2,Tijuana,Transferencia
+2024-02-12,Auriculares,Ropa,235.92,2,Tijuana,Efectivo
+2024-03-27,Smartphone,Ropa,168.35,4,Puebla,Transferencia
+2024-07-02,Auriculares,Ropa,345.67,4,Guadalajara,Efectivo
+2024-07-08,Auriculares,Accesorios,248.09,4,Guadalajara,Efectivo
+2024-09-14,Smartphone,Electrónica,480.4,5,Monterrey,Efectivo
+2024-04-09,Auriculares,Ropa,241.25,4,Puebla,Efectivo
+2024-04-13,Camiseta,Electrónica,488.72,1,Tijuana,Efectivo
+2025-01-04,Smartphone,Electrónica,124.66,5,Puebla,Tarjeta de crédito
+2024-11-19,Zapatos,Electrónica,412.57,3,Puebla,Transferencia
+2024-11-10,Laptop,Ropa,236.85,4,Monterrey,Transferencia
+2024-12-28,Auriculares,Electrónica,495.63,2,Ciudad de México,Tarjeta de crédito
+2024-10-01,Camiseta,Ropa,323.82,5,Puebla,Transferencia
+2024-02-09,Laptop,Accesorios,470.52,2,Monterrey,Efectivo
+2024-05-27,Zapatos,Ropa,209.07,1,Tijuana,Efectivo
+2024-10-03,Camiseta,Ropa,369.74,2,Monterrey,Tarjeta de crédito
+2024-05-26,Camiseta,Accesorios,180.07,4,Ciudad de México,Efectivo
+2024-11-23,Camiseta,Electrónica,185.45,4,Puebla,Tarjeta de crédito
+2024-11-28,Smartphone,Accesorios,195.74,3,Ciudad de México,Efectivo
+2024-04-27,Auriculares,Ropa,303.51,4,Puebla,Transferencia
+2024-05-21,Zapatos,Accesorios,443.29,1,Monterrey,Transferencia
+2024-10-15,Zapatos,Electrónica,50.85,3,Ciudad de México,Efectivo
+2024-08-29,Auriculares,Electrónica,94.9,4,Ciudad de México,Transferencia
+2024-09-25,Smartphone,Accesorios,261.91,4,Ciudad de México,Efectivo
+2024-08-21,Auriculares,Accesorios,121.17,4,Monterrey,Transferencia
+2024-11-09,Zapatos,Accesorios,201.44,5,Monterrey,Efectivo
+2024-10-24,Camiseta,Accesorios,122.88,4,Puebla,Transferencia
+2024-11-28,Smartphone,Accesorios,137.84,4,Guadalajara,Transferencia
+2024-07-28,Laptop,Accesorios,71.09,5,Tijuana,Transferencia
+2024-09-20,Camiseta,Electrónica,170.25,4,Puebla,Tarjeta de crédito
+2024-11-11,Zapatos,Accesorios,333.98,1,Puebla,Efectivo
+2024-08-12,Smartphone,Ropa,437.08,3,Monterrey,Tarjeta de crédito
+2024-10-30,Camiseta,Electrónica,84.33,5,Puebla,Tarjeta de crédito
+2024-12-23,Auriculares,Accesorios,21.54,1,Guadalajara,Efectivo
+2024-05-23,Camiseta,Ropa,261.93,4,Monterrey,Efectivo
+2024-02-14,Auriculares,Electrónica,381.72,4,Puebla,Efectivo
+2024-09-29,Smartphone,Ropa,478.22,5,Guadalajara,Transferencia
+2024-11-17,Zapatos,Electrónica,58.77,4,Monterrey,Tarjeta de crédito
+2024-12-30,Auriculares,Ropa,30.92,4,Puebla,Transferencia
+2024-10-29,Zapatos,Accesorios,134.45,4,Monterrey,Transferencia
+2024-07-23,Smartphone,Ropa,195.11,5,Guadalajara,Transferencia
+2025-01-07,Laptop,Ropa,101.5,5,Guadalajara,Tarjeta de crédito
+2024-01-30,Smartphone,Accesorios,378.67,4,Tijuana,Tarjeta de crédito
+2024-01-26,Camiseta,Ropa,128.27,2,Monterrey,Transferencia
+2024-03-07,Auriculares,Accesorios,348.94,5,Ciudad de México,Tarjeta de crédito
+2024-10-19,Smartphone,Accesorios,34.89,1,Tijuana,Tarjeta de crédito
+2024-08-23,Zapatos,Ropa,328.45,4,Ciudad de México,Transferencia
+2024-10-06,Smartphone,Ropa,41.1,4,Puebla,Tarjeta de crédito
+2024-06-13,Camiseta,Accesorios,321.99,2,Ciudad de México,Transferencia
+2024-05-19,Zapatos,Ropa,273.67,1,Tijuana,Transferencia
+2024-02-17,Smartphone,Ropa,437.2,2,Puebla,Tarjeta de crédito
+2024-09-07,Zapatos,Electrónica,190.74,2,Puebla,Transferencia
+2024-10-26,Auriculares,Accesorios,82.28,4,Ciudad de México,Transferencia
+2024-06-10,Camiseta,Accesorios,271.26,5,Puebla,Tarjeta de crédito
+2024-11-02,Camiseta,Electrónica,207.67,4,Tijuana,Transferencia
+2024-03-15,Laptop,Electrónica,223.13,4,Monterrey,Tarjeta de crédito
+2024-12-10,Camiseta,Accesorios,225.54,2,Ciudad de México,Efectivo
+2024-04-07,Auriculares,Ropa,260.78,1,Puebla,Efectivo
+2024-02-02,Camiseta,Accesorios,100.48,2,Monterrey,Efectivo
+2024-01-15,Camiseta,Accesorios,330.06,5,Ciudad de México,Tarjeta de crédito
+2024-02-14,Camiseta,Electrónica,498.36,4,Ciudad de México,Tarjeta de crédito
+2024-02-21,Camiseta,Electrónica,20.49,2,Tijuana,Efectivo
+2024-08-31,Auriculares,Ropa,37.3,2,Tijuana,Transferencia
+2024-05-29,Smartphone,Ropa,314.21,5,Monterrey,Transferencia
+2024-05-17,Zapatos,Ropa,11.94,5,Monterrey,Tarjeta de crédito
+2024-10-17,Camiseta,Ropa,186.62,4,Ciudad de México,Transferencia
+2024-07-16,Smartphone,Accesorios,309.25,2,Monterrey,Tarjeta de crédito
+2024-08-12,Laptop,Accesorios,158.28,2,Tijuana,Efectivo
+2024-05-20,Zapatos,Electrónica,275.22,5,Tijuana,Transferencia
+2024-05-19,Laptop,Ropa,210.17,4,Ciudad de México,Tarjeta de crédito
+2024-11-26,Laptop,Ropa,193.99,1,Puebla,Tarjeta de crédito
+2024-09-05,Laptop,Electrónica,154.1,3,Tijuana,Efectivo
+2024-11-25,Smartphone,Accesorios,211.42,2,Puebla,Efectivo
+2024-01-28,Camiseta,Accesorios,477.5,1,Monterrey,Tarjeta de crédito
+2024-04-19,Auriculares,Ropa,356.21,1,Guadalajara,Tarjeta de crédito
+2024-09-03,Zapatos,Ropa,362.6,3,Puebla,Efectivo
+2024-09-07,Zapatos,Accesorios,345.52,1,Monterrey,Transferencia
+2024-09-07,Laptop,Accesorios,403.0,3,Monterrey,Tarjeta de crédito
+2024-06-13,Auriculares,Electrónica,38.58,4,Ciudad de México,Transferencia
+2024-08-27,Zapatos,Electrónica,285.91,3,Guadalajara,Transferencia
+2024-03-14,Zapatos,Ropa,490.54,1,Guadalajara,Transferencia
+2024-11-28,Camiseta,Ropa,52.8,1,Guadalajara,Efectivo
+2024-07-15,Auriculares,Electrónica,436.92,2,Tijuana,Transferencia
+2024-04-07,Auriculares,Electrónica,17.13,5,Ciudad de México,Tarjeta de crédito
+2024-10-26,Camiseta,Electrónica,171.28,3,Puebla,Tarjeta de crédito
+2024-02-29,Laptop,Ropa,453.18,2,Monterrey,Transferencia
+2024-01-31,Laptop,Ropa,238.73,4,Tijuana,Tarjeta de crédito
+2024-10-19,Camiseta,Electrónica,215.13,1,Puebla,Efectivo
+2024-02-20,Smartphone,Accesorios,456.37,1,Tijuana,Tarjeta de crédito
+2024-08-08,Zapatos,Accesorios,462.69,3,Monterrey,Efectivo
+2024-10-19,Camiseta,Accesorios,440.61,4,Ciudad de México,Tarjeta de crédito
+2024-12-25,Camiseta,Electrónica,275.5,3,Ciudad de México,Efectivo
+2024-07-31,Zapatos,Accesorios,405.7,3,Guadalajara,Tarjeta de crédito
+2024-09-15,Auriculares,Electrónica,462.82,5,Puebla,Tarjeta de crédito
+2024-12-09,Smartphone,Accesorios,122.42,2,Ciudad de México,Tarjeta de crédito
+2024-06-22,Camiseta,Ropa,168.01,4,Ciudad de México,Efectivo
+2024-08-08,Camiseta,Electrónica,159.46,5,Puebla,Tarjeta de crédito
+2024-06-23,Smartphone,Accesorios,285.6,5,Tijuana,Tarjeta de crédito
+2024-09-28,Laptop,Ropa,107.84,3,Puebla,Efectivo
+2024-05-16,Laptop,Electrónica,479.78,5,Puebla,Transferencia
+2024-11-02,Camiseta,Ropa,488.57,3,Tijuana,Tarjeta de crédito
+2024-04-09,Laptop,Ropa,223.51,4,Tijuana,Tarjeta de crédito
+2024-06-05,Auriculares,Electrónica,300.04,1,Puebla,Transferencia
+2024-01-29,Auriculares,Accesorios,85.21,2,Puebla,Transferencia
+2024-10-31,Zapatos,Accesorios,370.19,1,Monterrey,Tarjeta de crédito
+2024-06-23,Zapatos,Accesorios,268.8,4,Ciudad de México,Transferencia
+2024-01-31,Auriculares,Ropa,432.28,4,Monterrey,Transferencia
+2024-03-27,Smartphone,Accesorios,285.64,1,Guadalajara,Transferencia
+2024-04-30,Zapatos,Electrónica,388.98,3,Monterrey,Tarjeta de crédito
+2024-08-04,Zapatos,Ropa,22.07,3,Puebla,Tarjeta de crédito
+2024-09-04,Zapatos,Accesorios,83.54,4,Monterrey,Efectivo
+2024-11-19,Laptop,Electrónica,111.58,4,Guadalajara,Efectivo
+2024-11-01,Auriculares,Ropa,272.61,4,Tijuana,Efectivo
+2024-04-04,Zapatos,Ropa,70.56,3,Ciudad de México,Tarjeta de crédito
+2024-05-28,Auriculares,Electrónica,198.09,1,Puebla,Transferencia
+2024-08-23,Smartphone,Electrónica,290.85,2,Tijuana,Transferencia
+2024-12-08,Zapatos,Accesorios,290.86,5,Guadalajara,Tarjeta de crédito
+2024-09-13,Zapatos,Electrónica,185.72,4,Monterrey,Transferencia
+2024-07-08,Smartphone,Electrónica,272.97,1,Monterrey,Efectivo
+2024-08-24,Zapatos,Electrónica,426.52,2,Monterrey,Transferencia
+2024-09-09,Smartphone,Electrónica,493.21,5,Guadalajara,Tarjeta de crédito
+2024-05-30,Smartphone,Electrónica,322.26,3,Monterrey,Tarjeta de crédito
+2024-09-06,Zapatos,Electrónica,397.66,1,Puebla,Tarjeta de crédito
+2024-11-10,Laptop,Electrónica,138.72,2,Guadalajara,Efectivo
+2024-11-18,Smartphone,Electrónica,487.05,5,Puebla,Efectivo
+2025-01-02,Camiseta,Electrónica,147.28,1,Guadalajara,Tarjeta de crédito
+2024-01-14,Camiseta,Accesorios,383.47,5,Tijuana,Tarjeta de crédito
+2024-03-26,Smartphone,Accesorios,441.26,2,Tijuana,Transferencia
+2024-07-09,Smartphone,Ropa,83.59,5,Ciudad de México,Tarjeta de crédito
+2024-03-21,Smartphone,Accesorios,192.99,5,Guadalajara,Tarjeta de crédito
+2024-12-04,Auriculares,Accesorios,175.06,3,Ciudad de México,Tarjeta de crédito
+2025-01-05,Zapatos,Electrónica,452.93,2,Tijuana,Efectivo
+2024-09-11,Auriculares,Accesorios,407.76,2,Monterrey,Tarjeta de crédito
+2024-02-01,Laptop,Accesorios,401.94,2,Puebla,Transferencia
+2024-02-01,Camiseta,Accesorios,45.0,4,Monterrey,Efectivo
+2024-11-06,Zapatos,Accesorios,365.1,3,Ciudad de México,Efectivo
+2025-01-06,Camiseta,Electrónica,268.79,5,Puebla,Tarjeta de crédito
+2024-04-16,Laptop,Ropa,207.23,5,Ciudad de México,Tarjeta de crédito
+2024-07-30,Camiseta,Ropa,409.01,5,Guadalajara,Transferencia
+2024-02-04,Zapatos,Electrónica,294.57,1,Ciudad de México,Tarjeta de crédito
+2024-03-10,Camiseta,Accesorios,134.5,5,Guadalajara,Efectivo
+2024-07-07,Camiseta,Ropa,363.77,1,Guadalajara,Tarjeta de crédito
+2024-06-17,Smartphone,Accesorios,371.88,4,Tijuana,Tarjeta de crédito
+2024-08-06,Camiseta,Accesorios,433.67,4,Guadalajara,Tarjeta de crédito
+2024-01-28,Camiseta,Ropa,132.38,1,Monterrey,Transferencia
+2024-06-22,Laptop,Accesorios,408.73,3,Tijuana,Transferencia
+2025-01-03,Auriculares,Ropa,423.86,4,Puebla,Transferencia
+2024-07-31,Zapatos,Ropa,226.64,2,Tijuana,Transferencia
+2024-04-03,Smartphone,Electrónica,398.32,1,Guadalajara,Tarjeta de crédito
+2024-08-31,Auriculares,Ropa,468.37,2,Ciudad de México,Transferencia
+2024-05-15,Auriculares,Electrónica,244.38,4,Ciudad de México,Tarjeta de crédito
+2024-04-14,Laptop,Ropa,191.18,5,Guadalajara,Efectivo
+2024-04-09,Laptop,Accesorios,402.74,5,Tijuana,Tarjeta de crédito
+2024-10-08,Smartphone,Electrónica,492.25,5,Guadalajara,Tarjeta de crédito
+2024-03-16,Auriculares,Accesorios,229.85,2,Guadalajara,Tarjeta de crédito
+2024-08-20,Zapatos,Electrónica,373.46,5,Tijuana,Efectivo
+2024-04-29,Auriculares,Ropa,86.1,1,Tijuana,Efectivo
+2024-09-29,Laptop,Accesorios,37.19,2,Guadalajara,Efectivo
+2024-04-01,Auriculares,Ropa,494.1,1,Monterrey,Transferencia
+2024-01-31,Auriculares,Electrónica,148.29,5,Puebla,Transferencia
+2025-01-08,Zapatos,Electrónica,202.83,2,Monterrey,Efectivo
+2024-10-23,Laptop,Accesorios,404.8,1,Puebla,Transferencia
+2024-10-01,Auriculares,Ropa,45.15,3,Tijuana,Efectivo
+2024-12-22,Zapatos,Accesorios,296.41,1,Puebla,Tarjeta de crédito
+2024-11-22,Laptop,Accesorios,25.39,4,Puebla,Tarjeta de crédito
+2024-12-14,Camiseta,Electrónica,160.23,1,Tijuana,Tarjeta de crédito
+2024-03-08,Zapatos,Accesorios,19.93,4,Guadalajara,Efectivo
+2024-12-20,Laptop,Electrónica,45.09,3,Puebla,Tarjeta de crédito
+2024-10-11,Laptop,Accesorios,155.51,3,Ciudad de México,Efectivo
+2024-05-12,Smartphone,Accesorios,229.34,2,Ciudad de México,Transferencia
+2024-12-25,Auriculares,Accesorios,310.74,3,Ciudad de México,Transferencia
+2024-08-10,Auriculares,Accesorios,343.37,3,Monterrey,Efectivo
+2024-07-23,Zapatos,Accesorios,271.4,3,Monterrey,Tarjeta de crédito
+2024-03-12,Auriculares,Ropa,371.59,1,Puebla,Efectivo
+2024-11-27,Camiseta,Ropa,203.37,3,Puebla,Transferencia
+2024-05-29,Auriculares,Electrónica,299.34,4,Guadalajara,Tarjeta de crédito
+2024-11-06,Smartphone,Ropa,461.85,1,Guadalajara,Transferencia
+2024-07-07,Laptop,Accesorios,457.97,4,Tijuana,Transferencia
+2024-11-26,Zapatos,Accesorios,445.33,2,Tijuana,Efectivo
+2024-01-22,Auriculares,Electrónica,233.35,5,Monterrey,Tarjeta de crédito
+2024-10-24,Auriculares,Ropa,105.29,4,Tijuana,Transferencia
+2024-01-11,Zapatos,Ropa,291.38,4,Tijuana,Transferencia
+2024-05-05,Zapatos,Electrónica,80.1,5,Puebla,Efectivo
+2024-06-15,Camiseta,Accesorios,285.86,3,Tijuana,Tarjeta de crédito
+2024-12-04,Smartphone,Accesorios,461.22,3,Guadalajara,Transferencia
+2024-11-25,Zapatos,Ropa,409.27,3,Ciudad de México,Tarjeta de crédito
+2024-03-03,Laptop,Ropa,420.5,5,Guadalajara,Efectivo
+2024-10-17,Smartphone,Electrónica,84.88,1,Guadalajara,Transferencia
+2024-07-09,Smartphone,Electrónica,71.74,5,Puebla,Transferencia
+2024-08-27,Camiseta,Ropa,22.18,4,Guadalajara,Tarjeta de crédito
+2024-07-16,Laptop,Electrónica,235.0,4,Monterrey,Tarjeta de crédito
+2024-06-05,Zapatos,Ropa,250.13,5,Guadalajara,Efectivo
+2024-10-18,Smartphone,Ropa,469.6,2,Ciudad de México,Efectivo
+2024-01-21,Zapatos,Accesorios,130.48,3,Monterrey,Transferencia
+2024-04-10,Smartphone,Electrónica,374.87,4,Puebla,Tarjeta de crédito
+2024-11-14,Auriculares,Electrónica,355.06,5,Tijuana,Tarjeta de crédito
+2024-05-08,Laptop,Accesorios,435.32,4,Tijuana,Transferencia
+2024-07-13,Auriculares,Accesorios,13.66,4,Tijuana,Tarjeta de crédito
+2024-01-09,Auriculares,Ropa,25.47,1,Guadalajara,Efectivo
+2025-01-03,Smartphone,Electrónica,87.82,2,Puebla,Transferencia
+2024-09-10,Auriculares,Electrónica,247.12,5,Monterrey,Efectivo
+2024-04-29,Camiseta,Ropa,205.6,4,Puebla,Tarjeta de crédito
+2024-09-18,Camiseta,Electrónica,152.29,4,Guadalajara,Efectivo
+2024-03-14,Auriculares,Ropa,347.53,1,Ciudad de México,Efectivo
+2024-04-11,Smartphone,Accesorios,466.05,2,Tijuana,Efectivo
+2024-04-26,Smartphone,Ropa,32.5,3,Monterrey,Tarjeta de crédito
+2024-06-03,Laptop,Accesorios,92.43,2,Ciudad de México,Tarjeta de crédito
+2024-01-27,Zapatos,Ropa,74.15,1,Tijuana,Transferencia
+2024-09-07,Auriculares,Ropa,467.7,2,Monterrey,Tarjeta de crédito
+2024-08-01,Auriculares,Ropa,186.79,1,Tijuana,Transferencia
+2025-01-02,Camiseta,Ropa,203.4,5,Puebla,Efectivo
+2024-04-20,Camiseta,Ropa,185.33,5,Puebla,Transferencia
+2024-08-13,Camiseta,Accesorios,444.52,2,Ciudad de México,Tarjeta de crédito
+2024-04-02,Laptop,Accesorios,262.2,5,Guadalajara,Efectivo
+2024-10-10,Laptop,Electrónica,319.71,4,Guadalajara,Transferencia
+2024-01-21,Smartphone,Ropa,83.17,5,Monterrey,Tarjeta de crédito
+2024-04-14,Zapatos,Accesorios,54.26,3,Ciudad de México,Transferencia
+2024-02-08,Camiseta,Electrónica,360.06,5,Ciudad de México,Tarjeta de crédito
+2024-07-08,Camiseta,Ropa,282.36,3,Monterrey,Tarjeta de crédito
+2024-03-31,Laptop,Accesorios,192.78,5,Monterrey,Transferencia
+2024-01-27,Laptop,Electrónica,140.82,5,Monterrey,Transferencia
+2024-06-14,Smartphone,Electrónica,258.08,1,Tijuana,Tarjeta de crédito
+2024-07-24,Auriculares,Accesorios,496.6,3,Monterrey,Tarjeta de crédito
+2024-02-21,Smartphone,Ropa,439.94,4,Ciudad de México,Efectivo
+2024-12-10,Camiseta,Electrónica,98.89,2,Guadalajara,Efectivo
+2024-03-07,Auriculares,Accesorios,233.59,1,Monterrey,Tarjeta de crédito
+2024-05-25,Zapatos,Electrónica,341.15,5,Monterrey,Transferencia
+2024-07-10,Laptop,Accesorios,297.44,3,Tijuana,Transferencia
+2024-04-15,Laptop,Accesorios,181.85,1,Monterrey,Transferencia
+2024-01-10,Smartphone,Ropa,143.44,3,Ciudad de México,Tarjeta de crédito
+2024-04-26,Smartphone,Accesorios,431.74,3,Puebla,Transferencia
+2024-10-23,Laptop,Electrónica,456.46,4,Monterrey,Transferencia
+2024-09-09,Zapatos,Electrónica,190.84,5,Monterrey,Efectivo
+2024-05-22,Laptop,Accesorios,184.29,4,Puebla,Transferencia
+2024-01-10,Camiseta,Electrónica,477.24,2,Monterrey,Tarjeta de crédito
+2024-07-28,Smartphone,Electrónica,157.21,2,Guadalajara,Efectivo
+2024-07-27,Auriculares,Electrónica,355.81,1,Ciudad de México,Transferencia
+2024-11-30,Smartphone,Accesorios,23.67,4,Tijuana,Transferencia
+2024-10-10,Auriculares,Electrónica,258.0,2,Monterrey,Transferencia
+2024-10-09,Auriculares,Accesorios,159.31,1,Puebla,Tarjeta de crédito
+2024-01-19,Laptop,Accesorios,185.73,5,Monterrey,Efectivo
+2024-05-07,Camiseta,Ropa,455.32,4,Puebla,Efectivo
+2024-08-25,Auriculares,Accesorios,40.05,5,Ciudad de México,Tarjeta de crédito
+2024-03-09,Zapatos,Accesorios,186.09,4,Tijuana,Tarjeta de crédito
+2024-12-01,Auriculares,Ropa,148.47,2,Tijuana,Tarjeta de crédito
+2024-04-19,Laptop,Ropa,428.07,1,Ciudad de México,Transferencia
+2024-10-29,Smartphone,Electrónica,496.6,5,Puebla,Transferencia
+2024-12-22,Auriculares,Ropa,168.52,5,Ciudad de México,Efectivo
+2025-01-07,Zapatos,Electrónica,493.36,4,Puebla,Tarjeta de crédito
+2024-04-05,Camiseta,Electrónica,359.61,4,Tijuana,Tarjeta de crédito
+2024-07-07,Auriculares,Ropa,367.46,2,Ciudad de México,Efectivo
+2024-03-17,Camiseta,Accesorios,156.28,5,Puebla,Efectivo
+2024-10-07,Laptop,Accesorios,59.56,1,Tijuana,Efectivo
+2024-05-24,Zapatos,Electrónica,340.06,2,Monterrey,Efectivo
+2024-11-27,Auriculares,Ropa,496.22,2,Puebla,Tarjeta de crédito
+2024-12-01,Smartphone,Accesorios,307.24,1,Ciudad de México,Tarjeta de crédito
+2024-05-03,Laptop,Accesorios,269.12,3,Puebla,Tarjeta de crédito
+2024-03-11,Smartphone,Electrónica,196.25,4,Monterrey,Tarjeta de crédito
+2024-07-08,Laptop,Accesorios,378.24,5,Tijuana,Transferencia
+2024-11-10,Auriculares,Electrónica,374.22,1,Ciudad de México,Efectivo
+2024-06-10,Laptop,Ropa,58.73,4,Ciudad de México,Tarjeta de crédito
+2024-11-19,Zapatos,Accesorios,299.21,5,Monterrey,Transferencia
+2024-02-06,Camiseta,Accesorios,211.49,4,Monterrey,Transferencia
+2024-08-13,Zapatos,Accesorios,386.87,4,Monterrey,Efectivo
+2024-10-15,Smartphone,Accesorios,344.24,1,Guadalajara,Efectivo
+2024-02-14,Smartphone,Ropa,108.53,5,Monterrey,Transferencia
+2024-03-09,Smartphone,Electrónica,25.28,4,Tijuana,Efectivo
+2024-02-27,Auriculares,Electrónica,360.27,1,Ciudad de México,Tarjeta de crédito
+2024-03-10,Camiseta,Accesorios,216.82,3,Ciudad de México,Efectivo
+2024-11-02,Auriculares,Electrónica,226.01,1,Tijuana,Efectivo
+2024-09-25,Auriculares,Accesorios,475.6,5,Guadalajara,Transferencia
+2024-03-06,Zapatos,Accesorios,55.0,4,Guadalajara,Efectivo
+2024-08-19,Smartphone,Accesorios,163.1,1,Ciudad de México,Efectivo
+2024-11-15,Laptop,Ropa,448.81,4,Puebla,Efectivo
+2024-01-29,Smartphone,Electrónica,350.72,3,Monterrey,Transferencia
+2024-10-28,Camiseta,Ropa,178.71,3,Monterrey,Efectivo
+2024-03-10,Smartphone,Accesorios,26.95,2,Monterrey,Efectivo
+2024-04-09,Zapatos,Accesorios,443.07,4,Ciudad de México,Tarjeta de crédito
+2024-07-22,Camiseta,Ropa,232.66,4,Monterrey,Tarjeta de crédito
+2024-05-31,Laptop,Ropa,221.41,5,Tijuana,Efectivo
+2024-05-07,Zapatos,Ropa,194.39,4,Monterrey,Tarjeta de crédito
+2024-03-07,Laptop,Electrónica,236.65,3,Guadalajara,Tarjeta de crédito
+2024-11-04,Camiseta,Ropa,379.07,4,Ciudad de México,Tarjeta de crédito
+2024-01-28,Camiseta,Accesorios,118.62,5,Puebla,Transferencia
+2024-01-28,Laptop,Electrónica,202.53,1,Ciudad de México,Efectivo
+2024-12-30,Zapatos,Accesorios,171.69,1,Monterrey,Transferencia
+2024-06-28,Camiseta,Accesorios,231.18,1,Ciudad de México,Transferencia
+2024-09-08,Zapatos,Ropa,161.44,4,Ciudad de México,Transferencia
+2024-10-10,Smartphone,Electrónica,292.35,2,Puebla,Efectivo
+2024-12-22,Auriculares,Ropa,456.01,1,Guadalajara,Tarjeta de crédito
+2024-09-06,Smartphone,Accesorios,115.22,3,Tijuana,Tarjeta de crédito
+2024-03-29,Camiseta,Ropa,152.28,5,Guadalajara,Efectivo
+2024-12-01,Camiseta,Accesorios,449.77,5,Tijuana,Transferencia
+2024-01-21,Auriculares,Ropa,309.69,3,Monterrey,Transferencia
+2024-11-18,Auriculares,Ropa,446.17,1,Puebla,Tarjeta de crédito
+2024-01-26,Laptop,Accesorios,452.54,2,Tijuana,Tarjeta de crédito
+2024-01-16,Auriculares,Electrónica,45.72,1,Ciudad de México,Transferencia
+2024-04-02,Camiseta,Accesorios,400.37,1,Tijuana,Transferencia
+2024-03-08,Smartphone,Electrónica,297.61,5,Tijuana,Transferencia
+2024-03-15,Camiseta,Electrónica,196.4,1,Ciudad de México,Efectivo
+2024-07-01,Smartphone,Ropa,38.2,2,Guadalajara,Tarjeta de crédito
+2024-11-28,Camiseta,Electrónica,459.31,3,Monterrey,Efectivo
+2024-10-14,Camiseta,Ropa,295.45,5,Monterrey,Transferencia
+2024-09-23,Camiseta,Electrónica,279.94,3,Guadalajara,Efectivo
+2024-10-30,Laptop,Accesorios,90.87,1,Tijuana,Transferencia
+2024-10-28,Smartphone,Ropa,371.67,3,Puebla,Transferencia
+2024-07-27,Auriculares,Electrónica,31.15,2,Monterrey,Efectivo
+2025-01-03,Smartphone,Ropa,425.99,2,Monterrey,Tarjeta de crédito
+2024-07-23,Laptop,Ropa,404.08,1,Guadalajara,Efectivo
+2024-01-20,Laptop,Electrónica,329.88,5,Ciudad de México,Tarjeta de crédito
+2024-05-22,Smartphone,Ropa,89.18,1,Guadalajara,Tarjeta de crédito
+2024-04-08,Auriculares,Accesorios,296.1,1,Monterrey,Transferencia
+2024-07-09,Camiseta,Ropa,201.81,2,Guadalajara,Tarjeta de crédito
+2024-05-16,Auriculares,Accesorios,297.13,1,Guadalajara,Tarjeta de crédito
+2024-06-29,Zapatos,Electrónica,113.69,4,Puebla,Efectivo
+2024-07-03,Camiseta,Electrónica,496.88,2,Guadalajara,Tarjeta de crédito
+2024-10-20,Camiseta,Electrónica,392.82,1,Tijuana,Tarjeta de crédito
+2024-02-17,Auriculares,Accesorios,358.09,4,Tijuana,Transferencia
+2024-09-16,Auriculares,Electrónica,426.64,1,Puebla,Tarjeta de crédito
+2024-04-14,Zapatos,Electrónica,409.67,5,Ciudad de México,Efectivo
+2024-01-21,Laptop,Electrónica,274.99,5,Ciudad de México,Efectivo
+2024-09-11,Laptop,Accesorios,477.79,4,Guadalajara,Efectivo
+2024-11-24,Smartphone,Ropa,379.53,4,Guadalajara,Efectivo
+2024-07-03,Smartphone,Ropa,391.24,5,Ciudad de México,Tarjeta de crédito
+2024-12-07,Auriculares,Electrónica,287.23,4,Tijuana,Tarjeta de crédito
+2024-04-20,Auriculares,Electrónica,269.84,2,Monterrey,Tarjeta de crédito
+2024-12-19,Camiseta,Ropa,429.08,3,Puebla,Transferencia
+2024-10-02,Zapatos,Accesorios,232.43,3,Puebla,Tarjeta de crédito
+2024-08-21,Laptop,Electrónica,406.86,3,Tijuana,Tarjeta de crédito
+2024-11-02,Smartphone,Accesorios,315.08,4,Ciudad de México,Transferencia
+2024-11-21,Camiseta,Electrónica,142.56,3,Puebla,Transferencia
+2024-11-09,Zapatos,Accesorios,82.67,3,Puebla,Transferencia
+2024-05-27,Auriculares,Ropa,85.77,5,Ciudad de México,Tarjeta de crédito
+2024-07-27,Zapatos,Ropa,90.93,3,Ciudad de México,Transferencia
+2024-08-02,Camiseta,Ropa,354.62,3,Monterrey,Transferencia
+2024-06-11,Smartphone,Electrónica,381.43,4,Guadalajara,Transferencia
+2024-07-13,Camiseta,Accesorios,445.95,5,Tijuana,Efectivo
+2024-09-04,Camiseta,Ropa,269.12,4,Guadalajara,Efectivo
+2024-02-17,Zapatos,Accesorios,448.61,4,Monterrey,Transferencia
+2024-06-16,Auriculares,Accesorios,104.63,1,Ciudad de México,Efectivo
+2024-07-14,Camiseta,Accesorios,412.16,2,Puebla,Transferencia
+2024-10-15,Zapatos,Electrónica,18.79,1,Ciudad de México,Efectivo
+2024-02-25,Camiseta,Accesorios,195.6,3,Puebla,Tarjeta de crédito
+2024-11-23,Camiseta,Accesorios,352.21,1,Guadalajara,Efectivo
+2024-03-08,Smartphone,Electrónica,222.93,3,Guadalajara,Efectivo
+2024-04-02,Auriculares,Ropa,206.96,3,Ciudad de México,Tarjeta de crédito
+2024-01-31,Laptop,Ropa,190.86,1,Monterrey,Transferencia
+2024-09-14,Smartphone,Accesorios,201.69,1,Puebla,Transferencia
+2024-06-04,Laptop,Ropa,201.24,2,Ciudad de México,Tarjeta de crédito
+2024-09-27,Laptop,Accesorios,142.83,3,Monterrey,Transferencia
+2024-09-01,Smartphone,Electrónica,342.63,5,Ciudad de México,Tarjeta de crédito
+2024-07-25,Laptop,Accesorios,43.92,4,Monterrey,Transferencia
+2024-07-03,Zapatos,Accesorios,16.9,2,Ciudad de México,Efectivo
+2024-07-17,Camiseta,Accesorios,142.58,1,Tijuana,Transferencia
+2024-05-08,Auriculares,Accesorios,154.13,4,Monterrey,Tarjeta de crédito
+2025-01-02,Smartphone,Ropa,178.1,3,Guadalajara,Efectivo
+2024-12-17,Laptop,Ropa,31.85,1,Monterrey,Tarjeta de crédito
+2024-08-21,Smartphone,Accesorios,448.62,5,Puebla,Transferencia
+2024-04-09,Camiseta,Electrónica,401.87,3,Tijuana,Tarjeta de crédito
+2024-06-21,Smartphone,Accesorios,213.18,1,Ciudad de México,Efectivo
+2024-05-27,Laptop,Accesorios,132.7,4,Tijuana,Efectivo
+2024-08-15,Smartphone,Electrónica,431.75,3,Tijuana,Tarjeta de crédito
+2024-06-07,Laptop,Accesorios,158.72,2,Tijuana,Transferencia
+2024-10-24,Camiseta,Ropa,244.83,5,Tijuana,Transferencia
+2024-05-16,Smartphone,Accesorios,461.2,1,Tijuana,Tarjeta de crédito
+2024-10-17,Camiseta,Accesorios,464.37,3,Guadalajara,Transferencia
+2024-07-02,Zapatos,Ropa,69.96,5,Ciudad de México,Efectivo
+2024-04-01,Laptop,Electrónica,339.99,4,Monterrey,Efectivo
+2024-04-18,Auriculares,Electrónica,174.67,3,Ciudad de México,Transferencia
+2024-04-14,Camiseta,Electrónica,208.73,5,Monterrey,Transferencia
+2024-05-27,Smartphone,Electrónica,440.55,5,Guadalajara,Tarjeta de crédito
+2024-07-14,Camiseta,Electrónica,472.69,1,Ciudad de México,Tarjeta de crédito
+2024-11-17,Camiseta,Ropa,87.53,5,Monterrey,Efectivo
+2024-07-10,Zapatos,Electrónica,311.13,5,Guadalajara,Transferencia
+2024-12-16,Camiseta,Ropa,332.59,3,Monterrey,Tarjeta de crédito
+2024-05-15,Laptop,Ropa,381.29,4,Puebla,Transferencia
+2024-08-03,Smartphone,Electrónica,484.31,1,Tijuana,Transferencia
+2024-06-29,Laptop,Accesorios,319.48,1,Tijuana,Transferencia
+2024-02-11,Auriculares,Accesorios,162.75,2,Puebla,Transferencia
+2024-07-15,Auriculares,Accesorios,328.68,1,Guadalajara,Efectivo
+2024-07-17,Camiseta,Accesorios,419.82,3,Ciudad de México,Efectivo
+2024-03-26,Smartphone,Accesorios,362.4,2,Puebla,Efectivo
+2024-02-07,Laptop,Ropa,141.46,5,Puebla,Tarjeta de crédito
+2024-04-21,Smartphone,Electrónica,329.81,1,Monterrey,Efectivo
+2024-01-28,Zapatos,Electrónica,323.31,2,Tijuana,Transferencia
+2024-11-01,Laptop,Ropa,216.29,2,Monterrey,Transferencia
+2024-12-04,Laptop,Ropa,133.08,2,Guadalajara,Tarjeta de crédito
+2024-09-22,Camiseta,Ropa,380.58,1,Monterrey,Transferencia
+2024-03-18,Laptop,Ropa,477.78,3,Ciudad de México,Tarjeta de crédito
+2024-10-16,Laptop,Accesorios,213.27,4,Guadalajara,Transferencia
+2024-04-17,Camiseta,Electrónica,427.16,4,Ciudad de México,Efectivo
+2024-05-13,Laptop,Electrónica,154.87,1,Guadalajara,Efectivo
+2024-10-29,Smartphone,Accesorios,51.29,4,Guadalajara,Tarjeta de crédito
+2024-05-28,Smartphone,Electrónica,259.51,1,Puebla,Transferencia
+2024-04-04,Zapatos,Accesorios,434.06,4,Tijuana,Tarjeta de crédito
+2024-05-20,Auriculares,Electrónica,157.5,3,Ciudad de México,Tarjeta de crédito
+2024-12-29,Auriculares,Ropa,315.73,5,Ciudad de México,Tarjeta de crédito
+2024-11-12,Auriculares,Ropa,361.69,4,Monterrey,Transferencia
+2024-12-23,Auriculares,Accesorios,276.08,1,Ciudad de México,Efectivo
+2024-12-31,Auriculares,Electrónica,13.34,5,Ciudad de México,Tarjeta de crédito
+2024-02-29,Zapatos,Ropa,346.56,1,Guadalajara,Tarjeta de crédito
+2024-05-18,Laptop,Electrónica,441.21,1,Puebla,Efectivo
+2024-02-29,Zapatos,Electrónica,63.57,3,Guadalajara,Tarjeta de crédito
+2024-02-01,Laptop,Ropa,371.03,5,Ciudad de México,Tarjeta de crédito
+2024-08-02,Auriculares,Ropa,339.22,4,Monterrey,Efectivo
+2024-08-30,Auriculares,Accesorios,189.28,5,Ciudad de México,Tarjeta de crédito
+2024-08-06,Laptop,Electrónica,304.03,2,Guadalajara,Tarjeta de crédito
+2024-11-11,Smartphone,Ropa,347.92,3,Guadalajara,Transferencia
+2024-07-01,Smartphone,Accesorios,447.76,5,Monterrey,Transferencia
+2024-12-12,Laptop,Electrónica,354.8,1,Guadalajara,Tarjeta de crédito
+2024-06-01,Zapatos,Accesorios,460.78,5,Ciudad de México,Tarjeta de crédito
+2024-04-16,Laptop,Ropa,192.7,2,Guadalajara,Transferencia
+2024-01-09,Zapatos,Ropa,217.02,2,Monterrey,Tarjeta de crédito
+2024-10-05,Smartphone,Accesorios,45.66,5,Puebla,Tarjeta de crédito
+2024-06-19,Smartphone,Ropa,100.91,4,Tijuana,Transferencia
+2024-11-16,Smartphone,Electrónica,13.73,4,Ciudad de México,Tarjeta de crédito
+2024-02-25,Zapatos,Electrónica,385.88,2,Puebla,Transferencia
+2024-04-21,Smartphone,Ropa,196.87,3,Guadalajara,Efectivo
+2024-02-19,Auriculares,Electrónica,186.95,2,Tijuana,Efectivo
+2024-09-27,Auriculares,Accesorios,144.32,2,Monterrey,Tarjeta de crédito
+2025-01-03,Auriculares,Accesorios,84.24,4,Puebla,Tarjeta de crédito
+2024-02-08,Camiseta,Accesorios,358.27,2,Monterrey,Efectivo
+2024-11-11,Camiseta,Ropa,54.29,1,Ciudad de México,Tarjeta de crédito
+2024-07-28,Smartphone,Ropa,203.8,3,Ciudad de México,Tarjeta de crédito
+2024-05-15,Zapatos,Accesorios,478.17,3,Ciudad de México,Efectivo
+2024-07-14,Zapatos,Electrónica,421.7,3,Guadalajara,Tarjeta de crédito
+2024-07-10,Laptop,Ropa,162.52,1,Ciudad de México,Transferencia
+2024-04-29,Camiseta,Electrónica,158.62,3,Ciudad de México,Efectivo
+2024-04-05,Smartphone,Ropa,470.2,3,Puebla,Tarjeta de crédito
+2024-10-24,Smartphone,Ropa,17.68,2,Tijuana,Efectivo
+2024-06-23,Auriculares,Ropa,434.96,2,Tijuana,Efectivo
+2024-04-10,Auriculares,Accesorios,325.17,2,Tijuana,Tarjeta de crédito
+2024-05-02,Zapatos,Ropa,249.2,2,Monterrey,Efectivo
+2024-04-23,Smartphone,Accesorios,173.93,5,Ciudad de México,Transferencia
+2024-06-16,Laptop,Ropa,438.59,5,Puebla,Efectivo
+2024-03-02,Laptop,Electrónica,232.57,2,Tijuana,Efectivo
+2024-01-27,Auriculares,Accesorios,50.98,1,Puebla,Tarjeta de crédito
+2024-05-16,Laptop,Accesorios,463.5,3,Puebla,Tarjeta de crédito
+2024-02-06,Laptop,Ropa,82.94,2,Monterrey,Tarjeta de crédito
+2024-08-14,Camiseta,Electrónica,176.09,4,Tijuana,Transferencia
+2024-07-13,Camiseta,Ropa,25.48,4,Ciudad de México,Tarjeta de crédito
+2024-10-27,Zapatos,Ropa,341.98,5,Monterrey,Efectivo
+2024-01-15,Camiseta,Ropa,494.4,1,Tijuana,Transferencia
+2024-06-18,Camiseta,Accesorios,312.21,1,Ciudad de México,Efectivo
+2024-02-28,Camiseta,Ropa,104.34,1,Tijuana,Tarjeta de crédito
+2024-11-07,Camiseta,Electrónica,54.17,4,Tijuana,Efectivo
+2024-08-27,Zapatos,Electrónica,18.61,4,Puebla,Efectivo
+2024-02-13,Auriculares,Electrónica,312.74,3,Puebla,Efectivo
+2024-10-02,Auriculares,Electrónica,245.75,2,Tijuana,Efectivo
+2024-12-05,Laptop,Accesorios,286.99,1,Guadalajara,Tarjeta de crédito
+2024-10-31,Auriculares,Electrónica,346.89,3,Puebla,Tarjeta de crédito
+2024-11-27,Zapatos,Electrónica,319.51,2,Puebla,Efectivo
+2024-08-12,Laptop,Electrónica,312.48,2,Ciudad de México,Transferencia
+2024-10-15,Smartphone,Ropa,259.47,4,Ciudad de México,Tarjeta de crédito
+2024-08-21,Zapatos,Electrónica,211.82,5,Monterrey,Tarjeta de crédito
+2024-07-24,Zapatos,Accesorios,157.32,4,Puebla,Efectivo
+2024-02-29,Smartphone,Electrónica,269.59,5,Ciudad de México,Efectivo
+2024-05-18,Auriculares,Electrónica,211.68,5,Ciudad de México,Tarjeta de crédito
+2024-07-23,Zapatos,Electrónica,481.23,3,Monterrey,Tarjeta de crédito
+2024-07-29,Camiseta,Electrónica,155.8,3,Puebla,Efectivo
+2024-07-23,Smartphone,Ropa,455.8,2,Puebla,Transferencia
+2024-12-06,Laptop,Ropa,164.19,5,Monterrey,Tarjeta de crédito
+2024-05-10,Zapatos,Accesorios,446.02,3,Ciudad de México,Efectivo
+2024-07-15,Smartphone,Electrónica,91.09,5,Monterrey,Tarjeta de crédito
+2024-04-01,Zapatos,Electrónica,71.23,2,Monterrey,Transferencia
+2024-11-17,Camiseta,Electrónica,142.45,2,Tijuana,Transferencia
+2024-04-09,Laptop,Ropa,193.91,3,Tijuana,Efectivo
+2024-08-01,Zapatos,Ropa,447.31,4,Ciudad de México,Efectivo
+2024-01-30,Auriculares,Accesorios,134.74,5,Ciudad de México,Transferencia
+2024-09-12,Auriculares,Accesorios,341.64,5,Monterrey,Efectivo
+2025-01-01,Zapatos,Electrónica,189.46,5,Ciudad de México,Tarjeta de crédito
+2024-11-19,Camiseta,Accesorios,279.88,2,Guadalajara,Transferencia
+2024-02-10,Smartphone,Ropa,41.94,5,Guadalajara,Tarjeta de crédito
+2024-02-10,Camiseta,Ropa,427.3,5,Guadalajara,Transferencia
+2024-02-06,Laptop,Accesorios,35.76,5,Guadalajara,Efectivo
+2024-08-13,Smartphone,Ropa,334.95,4,Guadalajara,Transferencia
+2024-04-08,Zapatos,Ropa,332.17,3,Guadalajara,Efectivo
+2024-09-16,Zapatos,Ropa,150.3,3,Puebla,Efectivo
+2024-09-28,Zapatos,Accesorios,105.85,3,Guadalajara,Transferencia
+2024-08-31,Camiseta,Electrónica,130.37,2,Ciudad de México,Efectivo
+2024-07-03,Camiseta,Electrónica,281.76,4,Monterrey,Tarjeta de crédito
+2024-04-14,Camiseta,Accesorios,14.21,2,Guadalajara,Transferencia
+2024-10-03,Zapatos,Ropa,82.24,2,Puebla,Tarjeta de crédito
+2024-06-14,Laptop,Accesorios,324.7,4,Monterrey,Transferencia
+2024-04-22,Camiseta,Ropa,318.97,3,Ciudad de México,Transferencia
+2024-06-16,Zapatos,Ropa,426.65,3,Puebla,Tarjeta de crédito
+2024-01-31,Laptop,Accesorios,20.83,3,Puebla,Efectivo
+2024-07-26,Smartphone,Electrónica,85.52,5,Puebla,Efectivo
+2024-11-12,Smartphone,Accesorios,249.94,1,Ciudad de México,Tarjeta de crédito
+2024-01-15,Auriculares,Electrónica,340.72,4,Ciudad de México,Transferencia
+2024-10-17,Auriculares,Accesorios,353.86,5,Tijuana,Efectivo
+2024-06-06,Laptop,Accesorios,185.51,2,Guadalajara,Efectivo
+2024-10-15,Smartphone,Ropa,245.08,2,Monterrey,Tarjeta de crédito
+2024-04-22,Camiseta,Electrónica,287.34,2,Puebla,Transferencia
+2024-04-30,Laptop,Ropa,43.47,2,Guadalajara,Transferencia
+2024-01-14,Laptop,Ropa,79.72,2,Monterrey,Tarjeta de crédito
+2024-03-12,Auriculares,Accesorios,270.91,4,Monterrey,Tarjeta de crédito
+2024-12-31,Smartphone,Electrónica,128.06,5,Ciudad de México,Transferencia
+2024-02-05,Auriculares,Accesorios,476.66,4,Puebla,Tarjeta de crédito
+2024-03-31,Smartphone,Electrónica,265.2,3,Tijuana,Tarjeta de crédito
+2024-01-18,Smartphone,Accesorios,267.63,5,Tijuana,Transferencia
+2024-03-06,Camiseta,Ropa,433.25,3,Guadalajara,Tarjeta de crédito
+2024-03-09,Auriculares,Ropa,448.43,5,Ciudad de México,Transferencia
+2024-12-25,Zapatos,Accesorios,340.22,2,Monterrey,Tarjeta de crédito
+2024-08-26,Zapatos,Accesorios,158.35,4,Puebla,Transferencia
+2024-09-13,Auriculares,Ropa,335.83,2,Monterrey,Transferencia
+2024-10-05,Camiseta,Ropa,207.98,5,Puebla,Tarjeta de crédito
+2024-10-06,Zapatos,Ropa,10.07,5,Guadalajara,Transferencia
+2024-06-26,Laptop,Accesorios,438.49,3,Ciudad de México,Tarjeta de crédito
+2024-07-20,Auriculares,Ropa,203.82,3,Puebla,Efectivo
+2024-04-26,Laptop,Electrónica,237.3,1,Guadalajara,Efectivo
+2024-12-09,Auriculares,Accesorios,280.14,2,Ciudad de México,Efectivo
+2024-03-10,Zapatos,Electrónica,22.27,3,Guadalajara,Transferencia
+2024-05-19,Laptop,Accesorios,232.61,2,Puebla,Transferencia
+2024-04-17,Camiseta,Electrónica,48.4,2,Tijuana,Tarjeta de crédito
+2024-04-06,Smartphone,Electrónica,494.62,4,Puebla,Transferencia
+2024-11-26,Laptop,Electrónica,258.79,2,Guadalajara,Tarjeta de crédito
+2024-04-23,Auriculares,Electrónica,441.2,1,Monterrey,Efectivo
+2024-01-28,Laptop,Electrónica,61.04,4,Ciudad de México,Transferencia
+2025-01-04,Laptop,Ropa,449.27,4,Ciudad de México,Efectivo
+2024-04-06,Auriculares,Accesorios,359.77,2,Ciudad de México,Efectivo
+2024-05-01,Laptop,Electrónica,361.46,3,Guadalajara,Transferencia
+2024-06-11,Camiseta,Ropa,219.22,4,Guadalajara,Efectivo
+2024-06-13,Auriculares,Electrónica,54.34,5,Puebla,Efectivo
+2024-10-21,Laptop,Ropa,95.75,2,Puebla,Efectivo
+2024-07-31,Zapatos,Electrónica,67.16,1,Monterrey,Transferencia
+2024-05-20,Zapatos,Accesorios,86.32,3,Guadalajara,Transferencia
+2024-12-09,Auriculares,Ropa,378.92,1,Ciudad de México,Transferencia
+2024-11-06,Laptop,Accesorios,376.24,3,Guadalajara,Tarjeta de crédito
+2024-01-26,Laptop,Accesorios,33.39,2,Puebla,Efectivo
+2024-02-18,Auriculares,Electrónica,26.4,5,Guadalajara,Transferencia
+2024-11-18,Smartphone,Electrónica,12.71,2,Tijuana,Tarjeta de crédito
+2024-08-22,Laptop,Ropa,224.37,4,Guadalajara,Tarjeta de crédito
+2025-01-01,Camiseta,Electrónica,152.45,2,Tijuana,Efectivo
+2024-03-19,Zapatos,Accesorios,84.32,2,Ciudad de México,Tarjeta de crédito
+2024-04-19,Laptop,Ropa,132.41,5,Monterrey,Tarjeta de crédito
+2024-09-07,Auriculares,Ropa,85.52,2,Ciudad de México,Efectivo
+2024-06-24,Camiseta,Electrónica,278.81,3,Ciudad de México,Efectivo
+2024-08-18,Auriculares,Ropa,81.4,1,Guadalajara,Transferencia
+2024-01-17,Auriculares,Electrónica,167.71,4,Guadalajara,Efectivo
+2024-02-28,Camiseta,Ropa,226.47,2,Guadalajara,Tarjeta de crédito
+2024-04-19,Zapatos,Electrónica,451.24,5,Puebla,Tarjeta de crédito
+2024-11-05,Auriculares,Electrónica,281.64,1,Puebla,Efectivo
+2024-09-27,Smartphone,Ropa,42.47,5,Ciudad de México,Transferencia
+2024-10-20,Camiseta,Ropa,210.81,4,Guadalajara,Efectivo
+2025-01-03,Auriculares,Ropa,431.05,3,Puebla,Transferencia
+2024-10-20,Camiseta,Electrónica,328.11,1,Tijuana,Transferencia
+2024-06-27,Laptop,Accesorios,344.72,2,Puebla,Transferencia
+2024-03-01,Laptop,Ropa,176.02,1,Monterrey,Efectivo
+2024-07-17,Smartphone,Ropa,122.57,4,Tijuana,Efectivo
+2024-01-28,Zapatos,Accesorios,164.57,3,Monterrey,Transferencia
+2024-05-16,Laptop,Ropa,189.54,4,Tijuana,Tarjeta de crédito
+2024-11-01,Smartphone,Electrónica,315.92,4,Ciudad de México,Transferencia
+2024-05-17,Zapatos,Ropa,488.1,1,Puebla,Transferencia
+2024-04-22,Camiseta,Electrónica,24.71,5,Puebla,Transferencia
+2024-02-22,Smartphone,Electrónica,299.02,3,Monterrey,Efectivo
+2024-12-07,Laptop,Ropa,198.32,1,Tijuana,Transferencia
+2024-03-01,Auriculares,Accesorios,288.22,2,Guadalajara,Transferencia
+2024-04-06,Smartphone,Accesorios,239.49,2,Puebla,Efectivo
+2024-03-25,Camiseta,Electrónica,313.04,3,Monterrey,Tarjeta de crédito
+2024-04-10,Zapatos,Ropa,391.13,1,Guadalajara,Tarjeta de crédito
+2024-12-23,Laptop,Electrónica,253.19,5,Tijuana,Efectivo
+2024-04-01,Auriculares,Accesorios,399.34,2,Guadalajara,Tarjeta de crédito
+2024-07-07,Auriculares,Accesorios,113.64,3,Tijuana,Tarjeta de crédito
+2024-08-12,Smartphone,Accesorios,135.09,3,Guadalajara,Tarjeta de crédito
+2024-01-20,Laptop,Electrónica,61.59,3,Ciudad de México,Efectivo
+2024-07-02,Smartphone,Accesorios,229.03,4,Tijuana,Transferencia
+2024-08-13,Laptop,Ropa,175.49,5,Monterrey,Transferencia
+2024-07-13,Smartphone,Ropa,147.74,5,Ciudad de México,Transferencia
+2024-09-07,Zapatos,Electrónica,202.54,3,Ciudad de México,Efectivo
+2024-06-29,Auriculares,Electrónica,469.51,2,Tijuana,Transferencia
+2024-06-28,Smartphone,Accesorios,395.91,2,Monterrey,Transferencia
+2024-08-15,Laptop,Ropa,121.37,2,Monterrey,Efectivo
+2024-11-30,Auriculares,Ropa,226.8,2,Ciudad de México,Efectivo
+2024-02-24,Auriculares,Electrónica,82.91,5,Puebla,Transferencia
+2024-06-28,Smartphone,Accesorios,489.37,2,Tijuana,Transferencia
+2024-12-25,Smartphone,Electrónica,179.25,1,Tijuana,Efectivo
+2024-11-18,Laptop,Ropa,307.25,3,Tijuana,Tarjeta de crédito
+2024-02-18,Auriculares,Accesorios,58.68,5,Monterrey,Transferencia
+2024-07-10,Auriculares,Ropa,473.04,2,Ciudad de México,Efectivo
+2024-03-13,Smartphone,Ropa,74.65,4,Tijuana,Transferencia
+2024-09-19,Camiseta,Accesorios,365.4,5,Tijuana,Transferencia
+2024-11-19,Smartphone,Accesorios,411.1,4,Monterrey,Transferencia
+2024-05-19,Laptop,Accesorios,125.34,4,Monterrey,Tarjeta de crédito
+2024-08-22,Smartphone,Electrónica,378.01,2,Monterrey,Transferencia
+2024-05-28,Auriculares,Accesorios,315.01,3,Puebla,Tarjeta de crédito
+2024-12-15,Zapatos,Accesorios,248.91,3,Monterrey,Tarjeta de crédito
+2024-07-06,Zapatos,Electrónica,403.81,2,Ciudad de México,Efectivo
+2024-12-22,Zapatos,Electrónica,269.47,5,Monterrey,Transferencia
+2024-11-29,Camiseta,Accesorios,20.49,5,Ciudad de México,Tarjeta de crédito
+2024-06-14,Laptop,Accesorios,352.51,1,Guadalajara,Transferencia
+2024-01-11,Auriculares,Accesorios,376.62,1,Guadalajara,Transferencia
+2024-12-25,Smartphone,Electrónica,206.94,3,Guadalajara,Transferencia
+2024-09-17,Laptop,Accesorios,135.99,2,Tijuana,Tarjeta de crédito
+2024-11-12,Zapatos,Accesorios,258.02,4,Puebla,Efectivo
+2024-12-15,Zapatos,Electrónica,253.62,3,Tijuana,Efectivo
+2024-02-22,Auriculares,Electrónica,406.44,4,Ciudad de México,Transferencia
+2024-08-24,Camiseta,Accesorios,417.28,2,Tijuana,Efectivo
+2024-02-14,Auriculares,Ropa,313.1,4,Puebla,Tarjeta de crédito
+2024-07-10,Smartphone,Ropa,236.78,2,Ciudad de México,Efectivo
+2024-01-19,Laptop,Ropa,180.17,5,Ciudad de México,Tarjeta de crédito
+2024-07-05,Smartphone,Accesorios,292.36,2,Puebla,Tarjeta de crédito
+2024-09-15,Camiseta,Ropa,127.05,2,Monterrey,Transferencia
+2024-11-11,Zapatos,Accesorios,35.55,4,Tijuana,Tarjeta de crédito
+2024-05-12,Smartphone,Electrónica,258.31,4,Guadalajara,Transferencia
+2024-04-04,Auriculares,Electrónica,13.83,3,Puebla,Efectivo
+2025-01-07,Laptop,Electrónica,269.19,3,Ciudad de México,Efectivo
+2024-12-25,Camiseta,Ropa,262.41,2,Ciudad de México,Efectivo
+2024-11-16,Laptop,Ropa,200.65,2,Ciudad de México,Tarjeta de crédito
+2024-05-29,Smartphone,Electrónica,371.69,5,Monterrey,Efectivo
+2024-02-03,Laptop,Electrónica,452.4,5,Guadalajara,Transferencia
+2024-09-06,Camiseta,Accesorios,469.78,4,Guadalajara,Efectivo
+2024-03-08,Auriculares,Accesorios,277.56,4,Ciudad de México,Transferencia
+2024-12-10,Zapatos,Ropa,495.21,1,Monterrey,Transferencia
+2024-01-23,Smartphone,Ropa,456.59,3,Tijuana,Efectivo
+2024-12-15,Auriculares,Ropa,80.13,4,Monterrey,Tarjeta de crédito
+2024-08-21,Laptop,Accesorios,444.82,1,Monterrey,Tarjeta de crédito
+2024-09-25,Zapatos,Ropa,315.4,4,Ciudad de México,Efectivo
+2024-04-20,Laptop,Ropa,36.36,3,Tijuana,Efectivo
+2024-05-13,Camiseta,Accesorios,235.01,2,Monterrey,Efectivo
+2024-04-12,Smartphone,Ropa,374.55,1,Tijuana,Tarjeta de crédito
+2024-11-21,Smartphone,Ropa,172.93,5,Puebla,Tarjeta de crédito
+2024-10-08,Camiseta,Accesorios,408.07,2,Tijuana,Transferencia
+2024-03-05,Zapatos,Electrónica,318.22,2,Guadalajara,Tarjeta de crédito
+2024-10-09,Zapatos,Electrónica,316.17,4,Monterrey,Efectivo
+2024-08-20,Camiseta,Ropa,10.85,2,Ciudad de México,Transferencia
+2024-09-21,Camiseta,Accesorios,395.61,2,Guadalajara,Tarjeta de crédito
+2024-08-01,Auriculares,Accesorios,90.88,5,Ciudad de México,Efectivo
+2024-05-15,Zapatos,Accesorios,44.43,1,Ciudad de México,Tarjeta de crédito
+2024-12-21,Auriculares,Electrónica,396.99,3,Tijuana,Transferencia
+2024-04-17,Zapatos,Accesorios,438.54,2,Tijuana,Transferencia
+2024-08-20,Camiseta,Ropa,232.46,4,Puebla,Efectivo
+2024-12-08,Auriculares,Accesorios,327.4,5,Ciudad de México,Efectivo
+2024-03-15,Auriculares,Ropa,109.5,3,Puebla,Tarjeta de crédito
+2024-02-24,Zapatos,Ropa,206.65,1,Tijuana,Transferencia
+2024-07-29,Zapatos,Electrónica,192.54,2,Ciudad de México,Transferencia
+2024-08-22,Zapatos,Electrónica,96.23,4,Puebla,Efectivo
+2024-10-19,Laptop,Accesorios,139.93,4,Guadalajara,Tarjeta de crédito
+2024-09-21,Camiseta,Ropa,107.78,3,Tijuana,Tarjeta de crédito
+2024-09-12,Laptop,Accesorios,60.83,1,Tijuana,Efectivo
+2025-01-02,Laptop,Electrónica,442.82,1,Guadalajara,Tarjeta de crédito
+2024-10-01,Smartphone,Electrónica,343.79,5,Monterrey,Efectivo
+2024-07-17,Smartphone,Accesorios,234.8,1,Ciudad de México,Tarjeta de crédito
+2024-09-02,Auriculares,Electrónica,72.13,4,Puebla,Efectivo
+2024-04-30,Camiseta,Ropa,421.34,3,Guadalajara,Transferencia
+2024-07-20,Smartphone,Electrónica,165.27,1,Monterrey,Efectivo
+2024-08-06,Smartphone,Electrónica,389.34,1,Tijuana,Efectivo
+2024-12-28,Camiseta,Ropa,331.64,5,Tijuana,Efectivo
+2024-11-07,Camiseta,Ropa,305.71,3,Puebla,Tarjeta de crédito
+2024-08-07,Laptop,Electrónica,80.04,2,Monterrey,Tarjeta de crédito
+2024-10-09,Zapatos,Electrónica,26.21,4,Monterrey,Tarjeta de crédito
+2024-09-29,Smartphone,Electrónica,118.19,1,Tijuana,Efectivo
+2024-01-27,Laptop,Ropa,315.1,4,Ciudad de México,Transferencia
+2024-02-04,Zapatos,Accesorios,306.09,1,Tijuana,Transferencia
+2024-11-22,Zapatos,Accesorios,330.83,2,Tijuana,Transferencia
+2024-05-30,Zapatos,Electrónica,189.06,4,Puebla,Efectivo
+2024-08-07,Laptop,Electrónica,251.85,3,Monterrey,Transferencia
+2024-04-05,Smartphone,Ropa,20.5,4,Puebla,Tarjeta de crédito
+2025-01-08,Laptop,Ropa,164.9,4,Ciudad de México,Tarjeta de crédito
+2024-11-22,Laptop,Electrónica,318.55,3,Tijuana,Transferencia
+2024-10-27,Laptop,Electrónica,308.58,2,Puebla,Efectivo
+2024-03-14,Smartphone,Electrónica,476.77,5,Puebla,Efectivo
+2024-03-09,Laptop,Accesorios,242.52,3,Monterrey,Transferencia
+2024-03-19,Zapatos,Accesorios,21.91,2,Ciudad de México,Transferencia
+2024-12-17,Smartphone,Electrónica,350.28,1,Tijuana,Transferencia
+2024-08-13,Camiseta,Electrónica,392.73,5,Tijuana,Efectivo
+2024-08-29,Auriculares,Accesorios,262.62,5,Ciudad de México,Transferencia
+2024-06-28,Auriculares,Electrónica,133.1,2,Ciudad de México,Efectivo
+2024-10-16,Camiseta,Accesorios,230.65,1,Guadalajara,Efectivo
+2024-05-07,Auriculares,Ropa,297.95,3,Puebla,Transferencia
+2024-01-26,Zapatos,Electrónica,95.5,5,Monterrey,Efectivo
+2024-01-20,Smartphone,Accesorios,48.17,5,Monterrey,Tarjeta de crédito
+2024-07-23,Laptop,Ropa,321.98,4,Guadalajara,Tarjeta de crédito
+2025-01-01,Camiseta,Ropa,80.96,4,Guadalajara,Tarjeta de crédito
+2024-03-25,Zapatos,Electrónica,208.51,4,Monterrey,Efectivo
+2024-05-02,Auriculares,Ropa,476.1,2,Monterrey,Transferencia
+2024-05-16,Smartphone,Electrónica,35.62,4,Puebla,Transferencia
+2024-09-06,Zapatos,Electrónica,362.92,2,Ciudad de México,Tarjeta de crédito
+2024-10-09,Smartphone,Accesorios,79.97,1,Monterrey,Transferencia
+2024-01-27,Camiseta,Ropa,247.34,1,Monterrey,Tarjeta de crédito
+2024-03-30,Laptop,Ropa,388.19,2,Ciudad de México,Efectivo
+2024-09-16,Laptop,Electrónica,128.5,4,Ciudad de México,Efectivo
+2024-12-27,Camiseta,Accesorios,461.31,4,Puebla,Tarjeta de crédito
+2024-07-16,Camiseta,Ropa,134.02,5,Tijuana,Tarjeta de crédito
+2024-10-01,Laptop,Ropa,262.02,3,Ciudad de México,Tarjeta de crédito
+2024-11-02,Auriculares,Accesorios,142.25,1,Ciudad de México,Tarjeta de crédito
+2024-06-25,Camiseta,Electrónica,348.21,2,Monterrey,Transferencia
+2024-11-17,Zapatos,Ropa,404.83,3,Monterrey,Efectivo
+2024-12-26,Camiseta,Accesorios,269.63,2,Monterrey,Tarjeta de crédito
+2024-03-22,Smartphone,Electrónica,23.74,2,Puebla,Transferencia
+2024-10-05,Smartphone,Ropa,333.38,3,Monterrey,Transferencia
+2024-01-26,Camiseta,Electrónica,135.24,2,Guadalajara,Tarjeta de crédito
+2024-03-13,Laptop,Ropa,175.38,1,Puebla,Efectivo
+2024-08-13,Zapatos,Accesorios,195.06,4,Puebla,Transferencia
+2024-10-23,Laptop,Accesorios,75.45,5,Puebla,Tarjeta de crédito
+2024-04-03,Auriculares,Accesorios,96.94,3,Guadalajara,Transferencia
+2024-06-05,Smartphone,Electrónica,453.61,4,Ciudad de México,Efectivo
+2024-06-02,Laptop,Ropa,353.6,1,Monterrey,Efectivo
+2024-07-05,Camiseta,Electrónica,291.33,4,Puebla,Efectivo
+2024-03-08,Camiseta,Electrónica,255.28,4,Puebla,Efectivo
+2024-08-18,Auriculares,Accesorios,438.11,1,Puebla,Tarjeta de crédito
+2024-05-29,Zapatos,Ropa,266.73,4,Ciudad de México,Transferencia
+2024-04-04,Auriculares,Electrónica,409.96,4,Monterrey,Transferencia
+2024-07-17,Auriculares,Ropa,280.61,4,Monterrey,Tarjeta de crédito
+2024-03-02,Auriculares,Ropa,55.18,2,Puebla,Transferencia
+2024-05-01,Laptop,Electrónica,278.04,3,Ciudad de México,Efectivo
+2024-06-05,Laptop,Ropa,256.4,3,Puebla,Transferencia
+2024-02-22,Laptop,Ropa,479.43,3,Ciudad de México,Tarjeta de crédito
+2024-06-30,Camiseta,Accesorios,380.71,5,Guadalajara,Tarjeta de crédito
+2024-01-20,Laptop,Accesorios,244.86,2,Ciudad de México,Transferencia
+2024-08-19,Smartphone,Ropa,420.8,2,Ciudad de México,Efectivo
+2024-01-18,Camiseta,Electrónica,197.23,1,Guadalajara,Transferencia
+2024-01-16,Smartphone,Accesorios,417.02,1,Monterrey,Efectivo
+2024-09-28,Camiseta,Ropa,232.95,2,Puebla,Tarjeta de crédito
+2024-02-10,Auriculares,Accesorios,390.83,4,Monterrey,Transferencia
+2024-06-06,Camiseta,Ropa,448.4,5,Puebla,Tarjeta de crédito
+2024-10-19,Auriculares,Ropa,294.09,1,Ciudad de México,Transferencia
+2024-05-12,Zapatos,Ropa,28.46,2,Tijuana,Tarjeta de crédito
+2024-08-23,Zapatos,Electrónica,152.01,3,Ciudad de México,Efectivo
+2024-12-23,Zapatos,Electrónica,307.06,1,Guadalajara,Transferencia
+2024-02-05,Smartphone,Accesorios,391.92,5,Puebla,Transferencia
+2024-02-04,Camiseta,Ropa,300.47,3,Monterrey,Efectivo
+2024-03-14,Smartphone,Accesorios,26.52,3,Guadalajara,Efectivo
+2024-10-09,Zapatos,Accesorios,473.55,4,Puebla,Transferencia
+2024-08-29,Smartphone,Accesorios,132.78,4,Tijuana,Transferencia
+2024-04-27,Auriculares,Electrónica,413.97,2,Puebla,Transferencia
+2024-10-12,Camiseta,Electrónica,84.46,2,Puebla,Transferencia
+2024-04-04,Auriculares,Electrónica,181.22,1,Ciudad de México,Transferencia
+2024-12-08,Auriculares,Ropa,308.61,5,Guadalajara,Transferencia
+2024-06-17,Camiseta,Accesorios,91.98,2,Tijuana,Efectivo
+2024-05-06,Zapatos,Ropa,393.13,2,Puebla,Transferencia
+2024-05-19,Camiseta,Accesorios,95.76,3,Ciudad de México,Tarjeta de crédito
+2024-08-30,Laptop,Electrónica,72.07,1,Monterrey,Transferencia
+2024-06-26,Auriculares,Accesorios,14.75,1,Guadalajara,Efectivo
+2024-11-09,Smartphone,Accesorios,274.96,4,Ciudad de México,Transferencia
+2024-02-06,Laptop,Electrónica,287.78,5,Tijuana,Transferencia
+2024-07-31,Laptop,Electrónica,368.85,5,Monterrey,Efectivo
+2024-12-14,Laptop,Electrónica,452.76,2,Guadalajara,Transferencia
+2024-04-03,Laptop,Electrónica,339.03,4,Monterrey,Efectivo
+2024-09-05,Auriculares,Accesorios,459.7,1,Puebla,Tarjeta de crédito
+2024-10-25,Camiseta,Electrónica,290.98,3,Tijuana,Efectivo
+2024-02-13,Auriculares,Accesorios,425.55,2,Guadalajara,Tarjeta de crédito
+2024-03-20,Camiseta,Accesorios,413.7,3,Ciudad de México,Tarjeta de crédito
+2024-10-16,Smartphone,Electrónica,143.05,3,Monterrey,Transferencia
+2024-07-26,Zapatos,Electrónica,493.82,5,Guadalajara,Efectivo
+2024-04-09,Smartphone,Ropa,68.25,2,Puebla,Transferencia
+2024-07-13,Laptop,Ropa,262.54,2,Ciudad de México,Transferencia
+2024-03-12,Camiseta,Electrónica,29.59,1,Tijuana,Efectivo
+2024-05-28,Camiseta,Accesorios,215.86,3,Monterrey,Transferencia
+2024-01-19,Auriculares,Ropa,102.35,5,Puebla,Tarjeta de crédito
+2024-01-30,Zapatos,Electrónica,17.41,1,Ciudad de México,Tarjeta de crédito
+2024-08-31,Camiseta,Ropa,131.96,5,Ciudad de México,Efectivo
+2024-08-27,Laptop,Accesorios,213.08,1,Guadalajara,Transferencia
+2024-11-17,Zapatos,Electrónica,310.62,4,Puebla,Tarjeta de crédito
+2024-11-22,Camiseta,Electrónica,100.82,5,Ciudad de México,Tarjeta de crédito
+2024-11-13,Zapatos,Electrónica,80.11,4,Tijuana,Efectivo
+2024-06-04,Laptop,Ropa,124.82,3,Tijuana,Transferencia
+2024-03-17,Laptop,Ropa,405.67,3,Guadalajara,Tarjeta de crédito
+2024-12-24,Laptop,Accesorios,48.19,3,Puebla,Transferencia
+2024-04-20,Zapatos,Ropa,118.07,2,Guadalajara,Efectivo
+2024-10-08,Camiseta,Accesorios,114.36,5,Puebla,Transferencia
+2025-01-03,Smartphone,Accesorios,442.7,5,Puebla,Tarjeta de crédito
+2024-11-23,Smartphone,Accesorios,272.85,1,Monterrey,Transferencia
+2024-09-27,Smartphone,Electrónica,490.79,1,Tijuana,Tarjeta de crédito
+2024-07-18,Laptop,Accesorios,310.86,4,Monterrey,Efectivo
+2024-01-26,Laptop,Accesorios,486.45,3,Monterrey,Tarjeta de crédito
+2024-08-14,Laptop,Ropa,54.11,4,Ciudad de México,Efectivo
+2024-11-08,Smartphone,Electrónica,308.99,1,Puebla,Tarjeta de crédito
+2024-03-06,Camiseta,Accesorios,440.0,1,Guadalajara,Tarjeta de crédito
+2024-10-29,Laptop,Electrónica,329.81,1,Tijuana,Efectivo
+2024-06-09,Laptop,Ropa,225.2,3,Puebla,Efectivo
+2024-06-28,Smartphone,Ropa,405.36,5,Tijuana,Tarjeta de crédito
+2024-05-11,Zapatos,Electrónica,70.36,4,Monterrey,Efectivo
+2024-05-13,Laptop,Electrónica,481.66,5,Monterrey,Tarjeta de crédito
+2024-01-19,Zapatos,Accesorios,295.97,4,Monterrey,Tarjeta de crédito
+2024-05-01,Zapatos,Accesorios,243.37,5,Ciudad de México,Efectivo
+2024-01-29,Camiseta,Accesorios,93.05,1,Monterrey,Tarjeta de crédito
+2024-10-06,Zapatos,Accesorios,496.27,3,Tijuana,Tarjeta de crédito
+2024-07-12,Camiseta,Accesorios,423.67,1,Monterrey,Efectivo
+2024-10-12,Zapatos,Accesorios,433.29,3,Ciudad de México,Tarjeta de crédito
+2024-04-21,Auriculares,Accesorios,202.35,1,Puebla,Efectivo
+2024-09-10,Camiseta,Ropa,455.15,1,Ciudad de México,Transferencia
+2024-11-25,Smartphone,Accesorios,16.61,4,Guadalajara,Tarjeta de crédito
+2024-12-22,Laptop,Ropa,225.72,3,Tijuana,Tarjeta de crédito
+2024-06-01,Zapatos,Electrónica,253.86,5,Ciudad de México,Transferencia
+2024-06-26,Auriculares,Accesorios,454.27,3,Tijuana,Tarjeta de crédito
+2024-03-04,Smartphone,Electrónica,428.18,1,Ciudad de México,Tarjeta de crédito
+2024-09-19,Zapatos,Electrónica,486.95,3,Tijuana,Transferencia
+2024-01-13,Auriculares,Electrónica,178.77,2,Guadalajara,Efectivo
+2024-07-09,Zapatos,Accesorios,37.79,5,Monterrey,Tarjeta de crédito
+2024-07-27,Zapatos,Electrónica,424.85,4,Ciudad de México,Tarjeta de crédito
+2024-01-13,Laptop,Accesorios,472.71,4,Ciudad de México,Efectivo
+2024-12-06,Camiseta,Electrónica,289.61,2,Guadalajara,Efectivo
+2024-12-13,Camiseta,Electrónica,427.73,3,Ciudad de México,Transferencia
+2024-10-30,Smartphone,Electrónica,106.52,5,Puebla,Transferencia
+2024-12-13,Smartphone,Ropa,380.09,1,Guadalajara,Transferencia
+2024-08-05,Smartphone,Ropa,320.91,4,Tijuana,Efectivo
+2024-07-05,Laptop,Accesorios,302.02,5,Tijuana,Transferencia
+2024-06-23,Auriculares,Accesorios,116.98,2,Monterrey,Efectivo
+2024-01-26,Smartphone,Accesorios,65.26,5,Guadalajara,Tarjeta de crédito
+2024-06-22,Laptop,Ropa,315.84,2,Tijuana,Efectivo
+2024-07-25,Laptop,Electrónica,67.07,1,Monterrey,Tarjeta de crédito
+2024-06-27,Zapatos,Accesorios,135.53,4,Puebla,Tarjeta de crédito
+2024-11-28,Camiseta,Electrónica,391.15,4,Tijuana,Transferencia
+2025-01-03,Zapatos,Electrónica,78.16,5,Ciudad de México,Tarjeta de crédito
+2024-02-08,Auriculares,Electrónica,172.56,2,Ciudad de México,Transferencia
+2024-04-11,Zapatos,Accesorios,177.07,5,Puebla,Tarjeta de crédito
+2024-02-01,Camiseta,Ropa,239.19,1,Tijuana,Efectivo
+2024-05-24,Smartphone,Accesorios,76.26,5,Ciudad de México,Tarjeta de crédito
+2024-01-09,Laptop,Accesorios,365.96,2,Puebla,Efectivo
+2024-10-12,Auriculares,Ropa,478.04,2,Ciudad de México,Tarjeta de crédito
+2024-04-06,Smartphone,Electrónica,50.88,1,Puebla,Tarjeta de crédito
+2024-08-11,Laptop,Electrónica,50.03,1,Tijuana,Tarjeta de crédito
+2024-03-07,Smartphone,Accesorios,70.88,1,Puebla,Efectivo
+2024-01-14,Laptop,Ropa,20.27,1,Tijuana,Tarjeta de crédito
+2024-07-01,Zapatos,Accesorios,79.38,3,Puebla,Transferencia
+2024-05-16,Laptop,Electrónica,341.33,3,Puebla,Efectivo
+2024-02-17,Zapatos,Accesorios,69.54,4,Guadalajara,Efectivo
+2024-12-02,Smartphone,Accesorios,390.48,2,Ciudad de México,Efectivo
+2024-05-12,Zapatos,Ropa,275.72,3,Tijuana,Transferencia
+2024-05-24,Zapatos,Accesorios,93.57,4,Puebla,Efectivo
+2024-05-10,Zapatos,Accesorios,362.45,1,Monterrey,Transferencia
+2024-12-26,Zapatos,Accesorios,269.91,5,Monterrey,Tarjeta de crédito
+2024-06-20,Auriculares,Accesorios,236.77,2,Guadalajara,Transferencia
+2024-11-17,Zapatos,Accesorios,136.28,3,Ciudad de México,Tarjeta de crédito
+2024-01-12,Zapatos,Electrónica,44.46,2,Tijuana,Transferencia
+2024-07-16,Camiseta,Electrónica,311.14,5,Ciudad de México,Efectivo
+2024-10-06,Smartphone,Accesorios,185.02,1,Puebla,Transferencia
+2024-07-07,Laptop,Ropa,498.73,5,Puebla,Transferencia
+2024-10-15,Smartphone,Ropa,295.54,4,Tijuana,Tarjeta de crédito
+2024-04-26,Zapatos,Ropa,200.64,2,Puebla,Tarjeta de crédito
+2024-11-06,Zapatos,Accesorios,228.49,4,Guadalajara,Transferencia
+2024-07-02,Camiseta,Ropa,342.98,3,Guadalajara,Efectivo
+2024-01-18,Camiseta,Electrónica,385.81,2,Guadalajara,Efectivo
+2024-05-18,Auriculares,Ropa,255.41,3,Guadalajara,Efectivo
+2024-11-23,Auriculares,Accesorios,210.87,1,Monterrey,Efectivo
+2024-02-02,Laptop,Electrónica,218.84,2,Puebla,Transferencia
+2024-02-20,Camiseta,Electrónica,281.37,5,Guadalajara,Transferencia
+2024-08-22,Smartphone,Ropa,286.37,3,Monterrey,Tarjeta de crédito
+2024-08-01,Auriculares,Electrónica,435.0,3,Puebla,Efectivo
+2024-03-27,Auriculares,Electrónica,10.69,4,Monterrey,Efectivo
+2024-04-04,Smartphone,Ropa,118.78,1,Puebla,Efectivo
+2024-08-22,Camiseta,Electrónica,256.76,4,Monterrey,Transferencia
+2024-01-25,Zapatos,Accesorios,399.26,1,Tijuana,Transferencia
+2024-09-24,Camiseta,Ropa,13.27,1,Monterrey,Efectivo
+2024-06-06,Auriculares,Ropa,59.19,3,Ciudad de México,Transferencia
+2024-12-11,Camiseta,Electrónica,67.69,2,Monterrey,Tarjeta de crédito
+2024-01-19,Camiseta,Accesorios,154.58,2,Ciudad de México,Transferencia
+2024-02-15,Laptop,Accesorios,228.92,1,Puebla,Transferencia
+2024-06-19,Laptop,Electrónica,242.32,1,Puebla,Transferencia
+2024-09-04,Smartphone,Ropa,284.66,4,Monterrey,Efectivo
+2024-01-21,Laptop,Electrónica,43.33,5,Ciudad de México,Transferencia
+2024-07-15,Auriculares,Electrónica,419.98,1,Puebla,Transferencia
+2024-08-11,Zapatos,Electrónica,463.55,5,Ciudad de México,Tarjeta de crédito
+2024-08-15,Laptop,Ropa,315.48,2,Monterrey,Tarjeta de crédito
+2024-12-25,Auriculares,Accesorios,426.58,5,Guadalajara,Efectivo
+2024-10-09,Laptop,Accesorios,117.7,3,Puebla,Tarjeta de crédito
+2024-06-08,Camiseta,Accesorios,371.91,1,Ciudad de México,Tarjeta de crédito
+2024-07-19,Zapatos,Electrónica,98.15,5,Tijuana,Efectivo
+2024-01-28,Laptop,Accesorios,36.24,4,Guadalajara,Tarjeta de crédito
+2024-08-28,Zapatos,Accesorios,197.79,2,Puebla,Tarjeta de crédito
+2024-04-08,Laptop,Electrónica,28.3,4,Puebla,Tarjeta de crédito
+2024-06-12,Laptop,Electrónica,330.65,4,Monterrey,Efectivo
+2024-06-05,Auriculares,Accesorios,325.47,5,Monterrey,Transferencia
+2024-11-18,Auriculares,Accesorios,471.43,2,Tijuana,Efectivo
+2024-08-14,Auriculares,Accesorios,359.71,2,Ciudad de México,Transferencia
+2024-06-30,Camiseta,Accesorios,243.05,5,Puebla,Efectivo
+2024-04-07,Camiseta,Ropa,352.02,2,Monterrey,Transferencia
+2024-03-02,Smartphone,Ropa,284.74,1,Monterrey,Transferencia
+2024-05-06,Smartphone,Ropa,286.13,2,Puebla,Efectivo
+2024-04-01,Auriculares,Ropa,390.86,5,Puebla,Transferencia
+2024-09-27,Auriculares,Accesorios,474.58,2,Puebla,Tarjeta de crédito
+2024-12-09,Smartphone,Electrónica,423.57,3,Tijuana,Tarjeta de crédito
+2024-12-06,Auriculares,Electrónica,467.08,4,Puebla,Transferencia
+2024-08-10,Laptop,Ropa,316.07,1,Tijuana,Transferencia
+2024-05-04,Laptop,Ropa,280.06,2,Tijuana,Transferencia
+2024-04-18,Smartphone,Accesorios,120.25,3,Tijuana,Transferencia
+2024-10-31,Smartphone,Accesorios,378.17,4,Monterrey,Transferencia
+2024-07-04,Zapatos,Ropa,247.85,1,Guadalajara,Transferencia
+2024-04-29,Auriculares,Electrónica,72.92,3,Puebla,Efectivo
+2024-08-16,Laptop,Electrónica,206.88,5,Puebla,Efectivo
+2024-05-22,Smartphone,Electrónica,119.43,3,Monterrey,Efectivo
+2024-12-20,Auriculares,Ropa,173.9,4,Ciudad de México,Transferencia
+2024-10-14,Laptop,Accesorios,289.56,4,Puebla,Efectivo
+2024-01-29,Zapatos,Accesorios,202.03,3,Guadalajara,Efectivo
+2024-05-12,Laptop,Electrónica,275.91,3,Puebla,Efectivo
+2024-04-12,Smartphone,Ropa,214.19,4,Tijuana,Transferencia
+2024-08-10,Auriculares,Ropa,422.67,3,Guadalajara,Transferencia
+2024-05-31,Auriculares,Ropa,137.08,3,Monterrey,Tarjeta de crédito
+2024-01-18,Laptop,Ropa,384.47,1,Ciudad de México,Tarjeta de crédito
+2024-10-03,Camiseta,Accesorios,414.16,2,Guadalajara,Tarjeta de crédito
+2024-03-19,Auriculares,Ropa,359.2,4,Ciudad de México,Transferencia
+2024-12-01,Zapatos,Accesorios,277.87,2,Tijuana,Tarjeta de crédito
+2024-11-23,Auriculares,Ropa,333.46,1,Ciudad de México,Transferencia
+2024-06-24,Zapatos,Ropa,393.63,1,Puebla,Efectivo
+2024-11-06,Smartphone,Accesorios,53.09,2,Ciudad de México,Efectivo
+2024-12-26,Zapatos,Electrónica,313.35,1,Ciudad de México,Transferencia
+2024-07-29,Smartphone,Accesorios,498.96,2,Guadalajara,Transferencia
+2024-10-06,Zapatos,Electrónica,116.87,3,Tijuana,Efectivo
+2024-06-02,Smartphone,Electrónica,354.48,1,Monterrey,Tarjeta de crédito
+2024-06-07,Camiseta,Electrónica,157.99,5,Monterrey,Tarjeta de crédito
+2024-11-03,Smartphone,Ropa,119.32,1,Tijuana,Tarjeta de crédito
+2024-02-01,Smartphone,Accesorios,410.42,2,Ciudad de México,Efectivo
+2024-11-11,Zapatos,Electrónica,458.04,1,Guadalajara,Transferencia
+2024-11-29,Smartphone,Electrónica,382.84,1,Tijuana,Transferencia
+2024-10-13,Auriculares,Electrónica,431.28,2,Tijuana,Transferencia
+2024-05-02,Zapatos,Accesorios,267.4,1,Puebla,Efectivo
