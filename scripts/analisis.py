@@ -59,6 +59,16 @@ plt.ylabel('Precio Promedio')
 plt.xticks(rotation=45)
 plt.show()
 
+##Ingresos Totales por mes
+
+ingresos_por_mes = df.groupby('Mes')['Precio'].sum().sort_values(ascending=False)
+plt.figure(figsize=(10,5))
+ingresos_por_mes.head(10).plot(kind='bar')
+plt.title('Ingresos Totales por Mes')
+plt.ylabel('Ingresos totales')
+plt.xticks(rotation=45)
+plt.show()
+
 ## Ventas totales por Mes
 
 precios_por_producto = df.groupby('Mes')['Cantidad'].sum().sort_values(ascending=False)
