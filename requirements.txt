@@ -1,6 +1,5 @@
 matplotlib==3.9.4
 numpy==2.0.2
 pandas==2.2.3
-plotly==5.24.1
 seaborn==0.13.2
 Faker==33.3.0
