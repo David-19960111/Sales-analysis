@@ -13,31 +13,46 @@ df["Dia"] = df["Fecha"].dt.day_name()
 
 ##Cantidad de productos
 
-fig = px.histogram(df, x="Producto", hover_data=df.columns, title="Productos")
-fig.show()
+plt.figure(figsize=(10,5))
+sns.histplot(data=df, x="Producto", bins=5, kde=False)
+plt.title("Productos")
+plt.xlabel("Productos")
+plt.show()
 
 ## Uso frecuente de metodo de pago
 
-fig = px.histogram(df, x="Metodo de pago", hover_data=df.columns, title="Metodos de pagos")
-fig.show()
+plt.figure(figsize=(10, 5))
+sns.histplot(data=df, x="Metodo de pago")
+plt.title("Métodos de pagos")
+plt.xlabel("Métodos de pago")
+plt.ylabel("Frecuencia")
+plt.show()
 
 ## Ventas totales por producto
 
 ventas_por_producto = df.groupby('Producto')['Cantidad'].sum().sort_values(ascending=False)
 ventas_por_producto_df = ventas_por_producto.reset_index()
 
-fig = px.bar(ventas_por_producto_df, x='Producto', y='Cantidad',
-             title='Ventas Totales por producto', labels= {'Cantidad':'Ventas', 'Producto':'Producto'})
-fig.show()
+plt.figure(figsize=(10, 6))
+plt.bar(ventas_por_producto_df['Producto'], ventas_por_producto_df['Cantidad'], edgecolor='black')
+plt.title('Ventas Totales por Producto')
+plt.xlabel('Producto')
+plt.ylabel('Ventas')
+plt.xticks(rotation=45)
+plt.show()
 
 ## Ingresos por ciudad
 
 ingresos_por_ciudad = df.groupby('Ciudad')['Precio'].sum().sort_values(ascending=False)
 ingresos_por_ciudad_df = ingresos_por_ciudad.reset_index()
 
-fig = px.bar(ingresos_por_ciudad_df, x='Ciudad', y='Precio',
-             title='Ingresos Totales por Ciudad', labels= {'Precio':'Ingresos', 'Ciudad':'Ciudad'})
-fig.show()
+plt.figure(figsize=(10, 6))
+plt.bar(ingresos_por_ciudad_df['Ciudad'], ingresos_por_ciudad_df['Precio'], edgecolor='black')
+plt.title('Ingresos Totales por Ciudad', fontsize=16)
+plt.xlabel('Ciudad', fontsize=12)
+plt.ylabel('Ingresos', fontsize=12)
+plt.xticks(rotation=45)
+plt.show()
 
 ## Ventas totales por ciudad
 
